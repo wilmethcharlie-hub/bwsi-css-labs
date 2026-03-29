@@ -14,3 +14,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+print("Hi everyone, my name is Charlie Wilmeth. I am currently enrolled in quantum computing, so I am excited to do computer science and learn more. I am from Maryland, and I do a bunch of engineering stuff in and outside of school. I was a soccer state champion this year, and I run track as well. I love learning and I'm excited to challenge myself with this course.")
